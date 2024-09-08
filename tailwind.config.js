@@ -26,6 +26,10 @@ export default {
           background: '#FAFAFA',
         },
       },
+      fontFamily: {
+        roboto: ['Roboto', 'sans-serif'],
+        baloo2: ['Baloo 2', 'sans-serif'],
+      },
     },
   },
   plugins: [],
