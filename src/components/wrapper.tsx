@@ -6,7 +6,7 @@ type WrapperProps = {
 
 export function Wrapper({ children }: WrapperProps) {
   return (
-    <div className="flex min-h-screen w-full max-w-7xl flex-col">
+    <div className="flex min-h-screen w-full max-w-7xl flex-col px-40">
       {children}
     </div>
   );
